@@ -25,15 +25,18 @@ The Extractive Text Summarizer is a web-based tool that condenses lengthy articl
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<your-username>/extractive-text-summarizer.git```
+   git clone https://github.com/<your-username>/extractive-text-summarizer.git
+```
 
 2. Navigate to the project directory:
    ```sh
-   cd extractive-text-summarizer```
+   cd extractive-text-summarizer
+```
 
 4. Install the required packages:
    ```sh
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
+```
 
 ### Running the Application
 1. Start the Flask server.
