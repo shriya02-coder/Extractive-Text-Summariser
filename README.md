@@ -29,7 +29,7 @@ The Extractive Text Summarizer is a web-based tool that condenses lengthy articl
 ```
 
 2. Navigate to the project directory:
-   ```sh
+```sh
    cd extractive-text-summarizer
 ```
 
