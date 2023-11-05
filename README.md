@@ -29,8 +29,8 @@ The Extractive Text Summarizer is a web-based tool that condenses lengthy articl
 ```
 
 2. Navigate to the project directory:
-```sh
-   cd extractive-text-summarizer
+ ```sh
+cd extractive-text-summarizer
 ```
 
 4. Install the required packages:
